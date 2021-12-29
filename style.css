@@ -6,13 +6,29 @@
   font-size: 1rem;
   font-weight: bold;
 }
-.fs-11{
- font-size: 2.75rem; 
- 
- }
-.how-use{
+.fs-11 {
+  font-size: 2.75rem;
+}
+.how-use {
   margin-left: 17rem;
 }
-.btn-link{
+.btn-link {
   color: rgb(69, 207, 69);
+}
+.green {
+  background-color: rgb(29, 173, 77);
+  height: 20rem;
+  text-align: center;
+}
+.start{
+font-size: 1.75rem;
+font-weight: bold;
+padding-top: 7rem;
+color: white;
+
+}
+.touch{
+  background-color: rgb(6, 2, 58);
+  color: white;
+
 }
